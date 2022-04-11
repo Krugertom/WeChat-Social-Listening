@@ -2,6 +2,8 @@
 
 API to collect WeChat article data, from Newrank, by brand name. Can collect articles from any date range since the opening of the brand's WeChat account.
 
+In order to use the NewRank API, you first need to create a new user account on the newrank website & then verify with local China phone number. Free API provides up to 2000 calls. 
+
 API will return: 
 
 - Account Name 
