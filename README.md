@@ -25,7 +25,7 @@ pip install requests pandas numpy
 Run the script:
 
 ~~~
-python3 script_name.py
+python3 tracking-wechat-articles.py.py
 ~~~
 
 The script will loop through each WeChat account ID and each date range specified, make requests to the Newrank API to retrieve article data, and then concatenate all results and save them to a CSV file.
